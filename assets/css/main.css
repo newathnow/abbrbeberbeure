@@ -1083,6 +1083,28 @@ h1.title {
   top: 6vh;
   background-size: cover;
 }
+@media (max-width: 550px) {
+ 
+.bg-about-2 {
+  /* background: url("../img/about-2.jpg") center no-repeat;
+  z-index: 3;
+  position: fixed;
+  text-align: center;
+  left: 10vw;
+  height: 50vh;
+  width: 30vw;
+  top: 30vh; */
+  background: url(../../smk-bg.gif) center no-repeat;
+  z-index: 3;
+  position: fixed;
+  text-align: center;
+  left: 10vw;
+  height: 100vh;
+  width: 70vw;
+  top: 6vh;
+  background-size: cover;
+}
+}
 
 #img-about {
   position: relative;
