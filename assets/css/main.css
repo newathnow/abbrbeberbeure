@@ -1100,6 +1100,9 @@ h1.title {
   }
   @media (max-width: 550px) {
  
+    .partner-list img {
+      padding: 22px;
+  }
 .bg-about-2 {
   
   background: url(../../smk-bg.gif) center no-repeat;
